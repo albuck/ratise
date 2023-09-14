@@ -42,6 +42,6 @@ Ratisės išdėstymo klaviatūros valdyklės _Windows, MacOS, Linux/Unix (xkb), 
 
 --------------------------------------------------------------------
 
-[Išsamiau apie ŪĖYOQJ Ratisės klaviatūros išdėstymą](https://albuck.github.io/Ratise-layout/){:target="_blank"}
+[Išsamiau apie ŪĖYOQJ Ratisės klaviatūros išdėstymą](https://albuck.github.io/Ratise-layout/)
 
 
